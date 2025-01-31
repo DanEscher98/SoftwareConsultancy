@@ -34,3 +34,15 @@ E: 1000 - 9999
 | Distillery             | D    | [.com](https://distillery.com)                     | [in: 40k](https://www.linkedin.com/company/distillery-tech/)                        | [ig: 700](https://www.instagram.com/Distillery_Tech/)   | [x: 770](https://x.com/DistilleryTech)  | [Santa Monica, CA](https://maps.app.goo.gl/edhSqcid7PGdxJkJ8)    |
 | UnoSquare              | E    | [.com](https://www.unosquare.com)                  | [in: 45k](https://www.linkedin.com/company/unosquare/)                              | [ig: 3.7k](https://www.instagram.com/unosquare/)        | [x: 1.1k](https://x.com/unosquare)      | [Guadalajara, Jal](https://maps.app.goo.gl/4ii9e7TKampyZa6r6)    |
 | Orion Innovation       | E    | [.com](https://www.orioninc.com/es/)               | [in: 206k](https://www.linkedin.com/company/orioninnovation/)                       | [ig: 5.2k](https://www.instagram.com/orion.innovation/) | [x: 2.3k](https://x.com/CurrentlyOrion) | [Edison, NJ](https://maps.app.goo.gl/y5pH8fs2q3YQK9ud9)          |
+```dataviewjs
+const data = await dv.io.csv("competitor-directory.csv")
+const normalizedData = data.map(row => {
+  let newRow = {};
+  for (let key in row) {
+    newRow[key.trim()] = row[key]; // Trim key names
+  }
+  return newRow;
+});
+dv.table(["Company Name", "Size", "Website"],
+  normalizedData.map(r => [r.Name, r.Size, r.Website]))
+```
