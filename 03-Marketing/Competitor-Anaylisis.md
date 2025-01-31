@@ -7,6 +7,8 @@ B:   10 -   49
 C:   50 -  249
 D:  250 -  999
 E: 1000 - 9999
+
+[network: followers](profile)
 ```
 
 | Company Name           | Size | Website                                            | LinkedIn                                                                            | Instagram                                               | Twitter                                 | Location                                                         |
@@ -15,6 +17,7 @@ E: 1000 - 9999
 | Hanova Consulting      | A    | [.mx](https://hanova.mx/)                          | [in: 290](https://www.linkedin.com/company/hanova-consulting/)                      | [ig: 190](https://www.instagram.com/hanova.mx/)         |                                         | [San Pedro, NL](https://maps.app.goo.gl/12qbAPeYVdte35UaA)       |
 | Borealix               | A    | [.io](https://borealix.io/)                        | [in: 290](https://www.linkedin.com/company/borealixsec/)                            |                                                         | [x: 30](https://x.com/BorealixSec)      | [Aguascalientes, Ags](https://maps.app.goo.gl/nYkHhrxKhQKPmApz6) |
 | Pyme.ONE               | A    | [.one](https://pyme.one/)                          | [in: 1k](https://www.linkedin.com/company/pymeone/)                                 | [ig: 130](https://www.instagram.com/pyme.one/)          |                                         | [Mexico City](https://maps.app.goo.gl/fZyHyqaLyWhCst5R6)         |
+| INOWU                  | B    | [.dev](https://www.inowu.dev/)                     | [in: 80](https://www.linkedin.com/company/inowu-development/)                       | [ig: 170](https://www.instagram.com/inowu_development/) |                                         | [Hermosillo, Son](https://maps.app.goo.gl/2ouhJJu36RCbXFKL8)     |
 | Intelligenza Solutions | B    | [.com.mx](https://www.intelligenza.com.mx/cms/en/) | [in: 110](https://www.linkedin.com/company/intelligenza-solutions)                  |                                                         | [x: 40](https://x.com/intelligenza)     | [Mexico City](https://maps.app.goo.gl/wbcRaHLnrjY3sTc4A)         |
 | Kalyptio               | B    | [.com](https://www.kalyptio.com)                   | [in: 280](https://www.linkedin.com/company/kalyptio/)                               |                                                         | [x: 10](https://x.com/Kalyptio)         |                                                                  |
 | Ehecatl                | B    | [.com.mx](https://www.ehecatl.com.mx/)             | [in: 440](https://www.linkedin.com/company/servicios-de-software-ehecatl-sa-de-cv/) |                                                         |                                         | [Veracruz, Ver](https://maps.app.goo.gl/v3N2RKj8ygRFM3kH6)       |
