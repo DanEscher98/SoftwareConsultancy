@@ -164,4 +164,13 @@
 
 - Introduction
 1. [Company Overview](./01-Company-Overview.md)
-2. [[02-Market-Analysis]]
+2. [Market Analysis](./02-Market-Analysis.md)
+3. [[Competitor-Anaylisis]]
+
+*An internal strategic plan outlining our roadmap for growth, operational setup, financial sustainability, and market positioning as we transition from a consultancy to a startup.*
+
+> [Next](./01-Company-Overview.md)
+
+> [Introduction](./README.md) - [Next](./01-Company-Overview.md)
+
+> [Back](./01-Company-Overview.md) - [Introduction](./README.md) - [Next](./03-Core-Services.md)
